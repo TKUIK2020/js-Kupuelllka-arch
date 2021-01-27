@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Laba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kupuelllka",
+  "license": "ISC",
+  "dependencies": {
+    "random-image-creator": "^2.0.2",
+    "react-random-shapes": "^0.4.1",
+    "swipejs": "^2.3.0"
+  }
+}
